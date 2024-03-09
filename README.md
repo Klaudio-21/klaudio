@@ -9,7 +9,7 @@ I am a Software Developer from Albania
 ```javascript
 const KlaudioToska = {         
     aboutMe: "I'm Backend Developer "
-    language: ["javaScript", "typeScript","go"] // Node.js,         
+    language: ["javaScript", "typeScript","go","java"]         
     myStack: {             
         backEnd: {             
           frameworks: ["Express.js","Gin" "fastify", "koa.js", "Nest.js"],                   
